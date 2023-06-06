@@ -1,0 +1,31 @@
+.crearContainer form{
+    display: flex;
+    margin-top: 5%;
+    
+}
+
+.escribeTarea{
+    margin-left: 60px;
+}
+
+.prioridadContainer{
+    display: flex;
+    align-items: start;
+    margin-left: 50px;
+}
+
+#tit-prioridad{
+    display: flex;
+    align-items: start;
+    margin: 0px;
+    padding-right: 20px;
+}
+
+.buttonAgregar{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+
+ 
